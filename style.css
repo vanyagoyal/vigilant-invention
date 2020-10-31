@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #A7FFEB;
+    color: navy;
+    font-weight: bold;
+    font-size: 40px;
+}
+h4 {
+    color:red;
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+#img1 {
+    width: 300px;
+    height: 400px;
+}
+
+#img2 {
+    width: 500px;
+    height: 300px;   
+}
+
+#img3 {
+    width: 550px;
+    height: 400px;
+}
+
+#img4 {
+    width: 500px;
+    height: 300px;
+}
+
+#h1 {
+    color: #F50057;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+.image-section {
+    display:flex;
+    justify-content: center;
+}
+.image {
+    margin-right:25px;
+    margin-left:25px;
+}
